@@ -1,5 +1,5 @@
 
-#Hi there, I am Juanjo <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fb67173b98dd2925991a8d547238404f1%2Ftenor.gif%3Fitemid%3D17357329&f=1&nofb=1" width="50">
+# Hi there, I am Juanjo <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fb67173b98dd2925991a8d547238404f1%2Ftenor.gif%3Fitemid%3D17357329&f=1&nofb=1" width="50">
 ## 🧙🏻‍♂️ ABOUT ME
 ### *Computer Engineering Student at [USAL](https://usal.es/).* 📚
 ## Tecnologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
