@@ -1,8 +1,8 @@
 
-# Hi there, I am Juanjo <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fb67173b98dd2925991a8d547238404f1%2Ftenor.gif%3Fitemid%3D17357329&f=1&nofb=1" width="50">
+# Hi there, I am Juanjo 
 
-I'm a *Computer Engineering Student at [USAL](https://usal.es/).* 📚
-I do things related in developement Full-Stack, more focused on Front-end but Back it's what I like most. I have experience in developing with some JS frameworks such as VUE or Angular, PHP and python.
+I'm a *Computer Engineering Student at [USAL](https://usal.es/).* 📚<br>
+I do things related in developement Full-Stack, more focused on Front-end but Back it's what I like most. I have experience in developing with some JS frameworks such as VUE or Angular, PHP and python. <br>
 I would like to learn something about IA o or ML 🤖🤖
 ## My Tecnologies🛠️ 
 
