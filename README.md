@@ -3,11 +3,21 @@
 
 I'm a *Computer Engineering Student at [USAL](https://usal.es/).* 📚
 I do things related in developement Full-Stack, more focused on Front-end but Back it's what I like most. I have experience in developing with some JS frameworks such as VUE or Angular, PHP and python.
+I would like to learn something about IA o or ML 🤖🤖
 ## My Tecnologies🛠️ 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![JS](https://camo.githubusercontent.com/1a54363b5053ecb5686f5d86f851915c9e32c5ab91c2724622099fd78f15e2a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465) 
+### Backend Stuff
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 <br>
-![PHP](https://camo.githubusercontent.com/5ab5a57ff3f501ec1b9d07cc4399bf4d8eadad2da85e70e0f94ab4ebca912c48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f267374796c653d666f722d7468652d6261646765266c6f676f3d504850266c6f676f436f6c6f723d7768697465) 
-![VUE](https://camo.githubusercontent.com/e3154de89865111124e15b6a9073a4ad4475583aa6ac68705d1592eba0a8ab0e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7675656a732532302d2532333335343935652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7675652e6a73266c6f676f436f6c6f723d253233344643303844) 
-![MYSQL](https://camo.githubusercontent.com/20f8a4f1e9c33b1cffb1968cda82ced5b6cd5d6c5a09865eab911724b1917d76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
-![C](https://camo.githubusercontent.com/5859172b2d0854f4d70d35118ae1fbb8d92f967ea654f1bb1bdae4a346d03926/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465)
+
+### Frontend Stuff
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+
+### Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
