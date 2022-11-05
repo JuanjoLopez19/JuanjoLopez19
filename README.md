@@ -29,10 +29,10 @@ I would like to learn something about IA o or ML 🤖🤖
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Some Random stuff
-  [![Juanjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanjoLopez19)](https://github.com/anuraghazra/github-readme-stats)
+  [![Juanjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanjoLopez19&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   <br>
 ## My top pick languages
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanjoLopez19)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanjoLopez19&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
    <br>
 
 ## How to contact me
