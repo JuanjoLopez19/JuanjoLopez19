@@ -38,6 +38,9 @@ I would like to learn something about IA o or ML 🤖🤖
 ## How to contact me
   <a href="https://www.linkedin.com/in/juanjo-l%C3%B3pez-g%C3%B3mez-176841223/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="mailto:juanjoselopez@usal.es">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+### Resume
+  Click here to check out my CV
+  <a href="https://europa.eu/europass/eportfolio/screen/share/06e121cf-0fed-4daa-82bc-b603314a1a11?lang=en" target="_blank">📁😎</a>
   <br>
 ## What people think we do  vs  What we actually do 
   <img align="left" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" height="200">
