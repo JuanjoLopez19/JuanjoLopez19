@@ -42,7 +42,7 @@ I would like to learn something about IA o or ML 🤖🤖
   <a href="mailto:juanjoselopez@usal.es">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 ### Resume
   Click here to check out my CV
-  <a href="https://europa.eu/europass/eportfolio/screen/share/06e121cf-0fed-4daa-82bc-b603314a1a11?lang=en" target="_blank">📁😎</a>
+  <a href="https://github.com/JuanjoLopez19/assets/blob/main/CV%20English.pdf" target="_blank">📁😎</a>
   <br>
 ## What people think we do  vs  What we actually do 
   <img align="left" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" height="200">
