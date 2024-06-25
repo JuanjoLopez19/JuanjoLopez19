@@ -25,13 +25,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"  />
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="40" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" height="40" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
 </div>
 
 ###
@@ -76,6 +80,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h3 align="left">Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
 </div>
 
 ###
