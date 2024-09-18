@@ -106,7 +106,7 @@
 
 ###
 
-<h2 align="left">Here you can download my cv <a href="https://github.com/JuanjoLopez19/assets/blob/main/Spanish.pdf" target="_blank">📩</a></h2>
+<h2 align="left">Here you can download my cv <a href="https://github.com/JuanjoLopez19/assets/blob/main/CV English.pdf" target="_blank">📩</a></h2>
 
 ###
 
