@@ -142,7 +142,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanjoLopez19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=false&order=2" height="235" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanjoLopez19&radius=16&theme=react&area=true&order=5&hide_border=true" height="235" alt="activity-graph graph"  />
 </div>
+
+### Currently Listening to 🎵🎶
+[![Spotify](https://spoty-readme.vercel.app/api/spotify)](https://open.spotify.com/user/jjlg1912)
+
 
 ###
