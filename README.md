@@ -3,7 +3,7 @@
 <h3 align="center">Senior AI & Backend Developer · Python & Node.js · APIs, Cloud & AI Agents</h3>
 
 <p align="center">
-  <a href="https://portfolio.jjlopez.dev/">Portfolio</a> ·
+  <a href="https://portfolio.jjlopez.dev/?utm_from='github'">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/juanjolopezgomez/">LinkedIn</a> ·
   <a href="mailto:contact@jjlopez.dev">Email</a>
 </p>
