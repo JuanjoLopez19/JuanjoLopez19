@@ -1,151 +1,166 @@
-<h1 align="center">Hey there I'm Juanjo 🤖</h1>
+<h1 align="center">Hey there, I'm Juanjo 👋</h1>
 
-###
+<h3 align="center">Senior AI & Backend Developer · Python & Node.js · APIs, Cloud & AI Agents</h3>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="center">
+  <a href="https://portfolio.jjlopez.dev/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/juanjolopezgomez/">LinkedIn</a> ·
+  <a href="mailto:contact@jjlopez.dev">Email</a>
+</p>
 
-###
+## 👨‍💻 About me
 
-<p align="left">I'm Juanjo from Salamanca, Spain<br><br>- 🧑🏻‍🎓I have a Computer Science Degree and a Intelligent System Master from the Salamanca's University<br>- 🔭 I’m working as fullstack developer but more focused on the backend<br>- 📚 I'm currently learning new technologies such as devops or developing some projects with cloud services<br>- ⚡ In my free time I enjoy playing videogames and doing sport</p>
+I'm Juanjo, a Senior AI & Backend Developer from Salamanca, Spain.
 
-###
+- 🎓 B.Sc. in Computer Science and M.Sc. in Intelligent Systems from the University of Salamanca
+- 💼 Senior AI & Backend Developer at **Emergya**, working on backend services and conversational AI
+- 🧠 Focused on scalable APIs, event-driven systems, real-time communication, RAG and AI agent orchestration
+- ☁️ Experienced with cloud-native and serverless solutions on AWS and GCP
+- 🌱 Currently expanding my knowledge of DevOps, cloud architecture and production-ready AI systems
+- ⚡ In my free time, I enjoy playing video games and doing sports
 
-<h2 align="left">🛠 Language and tools</h2>
+## 🛠️ Languages and tools
 
-###
-
-<h3 align="left">Backend Techs</h3>
-
-###
+### Backend and APIs
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" />
 </div>
 
-###
+### AI and real-time systems
 
-<h3 align="left">Frontend Techs</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/RAG-5B4B8A?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/GCP_Datastores-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="RAG with GCP Datastores" />
+  <img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge" alt="Langfuse" />
+  <img src="https://img.shields.io/badge/Dialogflow_CX-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Dialogflow CX" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
+  <img src="https://img.shields.io/badge/MCP-1F6FEB?style=for-the-badge" alt="Model Context Protocol" />
+</p>
 
-###
+### Cloud and DevOps
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </div>
 
-###
-
-<h3 align="left">Devops & Cloud Services</h3>
-
-###
+### Data, messaging and persistence
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis and Valkey" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="DynamoDB" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" height="40" alt="Elasticsearch" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
 </div>
 
-###
-
-<h3 align="left">Databases</h3>
-
-###
+### ORMs
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="SQLAlchemy" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-
-
-###
-
-<h3 align="left">ORM</h3>
-
-###
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="Sequelize" />
 </div>
 
-
-<h3 align="left">Tools</h3>
-
-###
+### Frontend
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 </div>
 
-###
+## 🚀 Featured projects
 
-<h2 align="left">Here you can download my cv <a href="https://github.com/JuanjoLopez19/assets/blob/main/CV_English.pdf" target="_blank">📩</a></h2>
+### [Job Offer Scraper MCP](https://job-scraper-mcp.jjlopez.dev/)
 
-###
+A read-only Model Context Protocol server that extracts structured job-posting data from Spanish job boards. It also includes agent skills for tailoring LaTeX CVs and writing cover letters from verified candidate evidence.
 
-<h2 align="left">How to contact me</h2>
+`Python` · `MCP` · `Pydantic` · `SeleniumBase` · `Beautiful Soup` · `PyPI`
 
-###
+### [Job-Talk](https://job-talk.jjlopez.dev)
+
+An interview-preparation web application that enables near-real-time voice conversations using text-to-speech and speech-to-text with local models.
+
+`Conversational AI` · `TTS` · `STT` · `Local models` · `Real-time communication`
+
+### [MercaSaver](https://mercasaver.jjlopez.dev)
+
+A serverless application for tracking purchases across Spanish supermarkets, with IMAP receipt ingestion and an event-driven AWS Lambda workflow.
+
+`FastAPI` · `AWS Lambda` · `S3` · `DynamoDB` · `PostgreSQL` · `Vercel`
+
+### [AutomatAPI](https://github.com/JuanjoLopez19/AutomatAPI)
+
+A web tool that automates the creation and deployment of REST APIs for Express.js, Flask and Django.
+
+`Angular` · `Node.js` · `PostgreSQL` · `MongoDB` · `Amazon S3` · `CloudFront`
+
+## 📜 Certifications
+
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/dad42bfc-736e-4899-bd10-f9589e2c1bd1) · 2026
+- [AWS Certified Developer – Associate](https://www.credly.com/badges/2e82261f-0d80-4522-9061-64a47b21d08d) · 2026
+- Google Cloud Professional Cloud Database Engineer — in progress
+
+## 📄 CV
+
+You can [download my CV](https://github.com/JuanjoLopez19/assets/raw/refs/heads/main/CV_English.pdf).
+
+## 📫 How to contact me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/juanjolopezgomez/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="LinkedIn" />
   </a>
-  <a href="mailto:juanjo.lopez.gomez.19@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:contact@jjlopez.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="Email" />
+  </a>
+  <a href="https://medium.com/@juanjolopez19" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&style=for-the-badge" height="28" alt="Medium" />
+  </a>
+  <a href="https://stackoverflow.com/users/24182064" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stack_Overflow&logo=stackoverflow&label=&color=F58025&logoColor=white&style=for-the-badge" height="28" alt="Stack Overflow" />
   </a>
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanjoLopez19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=false&order=2" height="235" alt="languages graph"  />
-</div>
-
-### Currently Listening to 🎵🎶
-[![Spotify](https://spoty-readme.vercel.app/api/spotify)](https://open.spotify.com/user/jjlg1912)
-
-
-###
